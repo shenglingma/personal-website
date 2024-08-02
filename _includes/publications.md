@@ -37,11 +37,11 @@
 <li>
 <div class="pub-row">
  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-     <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2666636723014720">Prospective Clinical and Biomarker Validation of the American Society for Transplantation and Cellular Therapy Consensus Definition for Transplantation-Associated Thrombotic Microangiopathy</a></div>
-     <div class="author"><strong>Shengling Ma</strong>, Saleh Bhar, Danielle Guffey, Rock Bum Kim, Mahrukh Jamil, Christopher I. Amos, Stephanie J. Lee, Sangeeta R. Hingorani, Sarah E. Sartain, Ang Li</div>
-     <div class="periodical"><em>Transplantation and Cellular Therapy <strong>(TCT)</strong>, 2024.</em></div>
+     <div class="title">Circulating tumor DNA predicts venous thromboembolism in patients with cancer</div>
+     <div class="author"><strong>Shengling Ma</strong>, Jun Y. Jiang, Rockbum Kim, Elizabeth Chiang, Joyce Wan Theng Tiong, Justine Ryu, Danielle Guffey, Raka Bandyo, Heidi Dowst, Kaitlin N Swinnerton, Nathanael R Fillmore, Jennifer La, Ang Li</div>
+     <div class="periodical"><em>Journal of Thrombosis and Haemostasis<strong>(TCT, in revision)</strong>, 2024.</em></div>
      <div class="links">
-         <a href="https://drive.google.com/file/d/1ayWXSZY7CXy-90zBoSR0l_sQ2GK8g2rM/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+
      </div>
  </div>
 </div>
