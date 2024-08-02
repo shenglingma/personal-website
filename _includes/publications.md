@@ -61,8 +61,8 @@
 <li>
 <div class="pub-row">
  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-     <div class="title"><a href="https://www.thrombosisresearch.com/article/S0049-3848(23)00189-5/abstract">Risk factors and outcomes for isolated catheter-related deep venous thrombosis in patients undergoing allogeneic hematopoietic stem cell transplantation</a></div>
-     <div class="author">Jonathan Avery, Danielle Guffey, <strong>Shengling Ma</strong>, Ryan Basom, Stephanie J. Lee, David Garcia, Cristhiam M. Rojas Hernandez, Ang Li, Kylee L. Martens</div>
+     <div class="title"><a href="https://link.springer.com/article/10.1007/s40615-024-02077-y">Racial and Ethnic Disparity for Cancer Mortality in General and Single-Payer Healthcare Systems in the United States</a></div>
+     <div class="author">Rock Bum Kim, Emily Zhou, Kaitlin N. Swinnerton, Jennifer La, <strong>Shengling Ma</strong>, Mrinal Ranjan, Nhan V. Do, Mary T. Brophy, Nathanael R. Fillmore, Ang Li</div>
      <div class="periodical"><em>Thrombosis Research <strong>(TR)</strong>, 2023.</em></div>
      <div class="links">
          <a href="https://drive.google.com/file/d/13G8ZEPngYL3ZV5TtqNzT20-jv9B9Luvt/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
