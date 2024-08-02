@@ -18,12 +18,6 @@ My research lies at the intersection of **real world evidence** and **clinical m
 
 {% include_relative _includes/publications.md %}
 
-#{% include_relative _includes/preprints.md %}
-
-#{% include_relative _includes/teaching.md %}
-
 {% include_relative _includes/talks.md %}
-
-#{% include_relative _includes/services.md %}
 
 {% include_relative _includes/contact.md %}
