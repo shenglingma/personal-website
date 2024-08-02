@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Publications <span style="font-size:15px;">[</span><a href="https://scholar.google.com/citations?user=Uf9GqRsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><span style="font-size:15px;">]</span><span style="font-size:15px;">[</span></h2>
+<h2 style="margin: 60px 0px -15px;">Publications <span style="font-size:15px;">[</span><a href="https://scholar.google.com/citations?user=Uf9GqRsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><span style="font-size:15px;">]</span><span style="font-size:15px;"></span></h2>
 
 <div class="publications">
 <ol class="bibliography">
