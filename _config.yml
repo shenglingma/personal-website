@@ -1,0 +1,49 @@
+# Basic Information 
+title: Shengling Ma
+position: Postdoctoral Fellow
+affiliation: Baylor College of Medicine
+affiliation_link: https://www.bcm.edu/
+affiliation_logo: ./assets/img/favicon-dark.png
+email: shengling.ma@bcm.edu
+email2: sma7@bidmc.harvard.edu
+
+# Search Engine Optimization (SEO)
+keywords: shengling ma, ma shengling, shenglingma, mashengling
+canonical: https://minimal-light-theme.yliu.me/
+description: Shengling Ma is a postdoctoral fellow at Baylor College of Medicine. Her research lies in clinical informatics, machine learning, and epidemiology.
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: false
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?user=47yvri4AAAAJ&hl
+github_link: https://github.com/shenglingma
+linkedin: https://www.linkedin.com/in/slm3
+twitter: https://twitter.com/shenglingma/
+
+# Images 
+avatar: ./assets/img/avatar_ash.jpeg
+favicon: ./assets/img/favicon.JPG
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnotes
+footnote: Feel free to use my website's source code.
+footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
