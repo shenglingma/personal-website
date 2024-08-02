@@ -5,6 +5,18 @@
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+ <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+     <div class="title">Circulating tumor DNA predicts venous thromboembolism in patients with cancer</div>
+     <div class="author"><strong>Shengling Ma</strong>*, Jun Y. Jiang*, Rockbum Kim, Elizabeth Chiang, Joyce Wan Theng Tiong, Justine Ryu, Danielle Guffey, Raka Bandyo, Heidi Dowst, Kaitlin N Swinnerton, Nathanael R Fillmore, Jennifer La, Ang Li</div>
+     <div class="periodical"><em>Journal of Thrombosis and Haemostasis <strong>(JTH, in revision)</strong>, 2024.</em></div>
+
+ </div>
+</div>
+</li>
+
 <li>
 <div class="pub-row">
  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -34,13 +46,29 @@
 
 
 
+
 <li>
 <div class="pub-row">
  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-     <div class="title">Circulating tumor DNA predicts venous thromboembolism in patients with cancer</div>
-     <div class="author"><strong>Shengling Ma</strong>, Jun Y. Jiang, Rockbum Kim, Elizabeth Chiang, Joyce Wan Theng Tiong, Justine Ryu, Danielle Guffey, Raka Bandyo, Heidi Dowst, Kaitlin N Swinnerton, Nathanael R Fillmore, Jennifer La, Ang Li</div>
-     <div class="periodical"><em>Journal of Thrombosis and Haemostasis <strong>(JTH, in revision)</strong>, 2024.</em></div>
+     <div class="title"><a href="https://link.springer.com/article/10.1007/s40615-024-02077-y">Racial and Ethnic Disparity for Cancer Mortality in General and Single-Payer Healthcare Systems in the United States</a></div>
+     <div class="author">Rock Bum Kim, Emily Zhou, Kaitlin N. Swinnerton, Jennifer La, <strong>Shengling Ma</strong>, Mrinal Ranjan, Nhan V. Do, Mary T. Brophy, Nathanael R. Fillmore, Ang Li</div>
+     <div class="periodical"><em>Thrombosis Research <strong>(TR)</strong>, 2024.</em></div>
+     <div class="links">
+         <a href="https://drive.google.com/file/d/13G8ZEPngYL3ZV5TtqNzT20-jv9B9Luvt/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+     </div>
+ </div>
+</div>
+</li>
 
+<li>
+<div class="pub-row">
+ <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+     <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S1538783624000606">Natural history of cancer-associated splanchnic vein thrombosis</a></div>
+     <div class="author">Hanqing Shang, Jun Y. Jiang, Danielle Guffey, Francisco Novoa, Raka Bandyo, <strong>Shengling Ma</strong>, Ang Li</div>
+     <div class="periodical"><em>Journal of Thrombosis and Haemostasis <strong>(JTH)</strong>, 2024.</em></div>
+     <div class="links">
+         <a href="https://drive.google.com/file/d/1As8SRRMeuP7k7k9HMmOoxX9IyaWPHiZ9/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+     </div>
  </div>
 </div>
 </li>
@@ -61,16 +89,15 @@
 <li>
 <div class="pub-row">
  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-     <div class="title"><a href="https://link.springer.com/article/10.1007/s40615-024-02077-y">Racial and Ethnic Disparity for Cancer Mortality in General and Single-Payer Healthcare Systems in the United States</a></div>
-     <div class="author">Rock Bum Kim, Emily Zhou, Kaitlin N. Swinnerton, Jennifer La, <strong>Shengling Ma</strong>, Mrinal Ranjan, Nhan V. Do, Mary T. Brophy, Nathanael R. Fillmore, Ang Li</div>
-     <div class="periodical"><em>Thrombosis Research <strong>(TR)</strong>, 2023.</em></div>
+     <div class="title"><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cam4.3882">Surgery shows survival benefit in patients with primary intestinal diffuse large B-cell lymphoma: A population-based study</a></div>
+     <div class="author">Moran Wang, <strong>Shengling Ma</strong>, Wei Shi, Yuanyuan Zhang, Shanshan Luo, Yu Hu</div>
+     <div class="periodical"><em>Cancer Medicine <strong>(CM)</strong>, 2021.</em></div>
      <div class="links">
-         <a href="https://drive.google.com/file/d/13G8ZEPngYL3ZV5TtqNzT20-jv9B9Luvt/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+         <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cam4.3882" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
      </div>
  </div>
 </div>
 </li>
-
 
 </ol>
 </div>
