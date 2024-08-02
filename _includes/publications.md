@@ -8,9 +8,7 @@
 <li>
 <div class="pub-row">
  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
-     <div class="title"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ajh.27335
-        
-        ">Thrombosis risk prediction in lymphoma patients: A multi-institutional, retrospective model development and validation study</a></div>
+     <div class="title"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ajh.27335">Thrombosis risk prediction in lymphoma patients: A multi-institutional, retrospective model development and validation study</a></div>
      <div class="author"><strong>Shengling Ma</strong>*, Jennifer La*, Kaitlin N. Swinnerton, Danielle Guffey, Raka Bandyo, Giordana De Las Pozas, Katy Hanzelka, Xiangjun Xiao, Cristhiam M. Rojas-Hernandez, Christopher I. Amos, Vipul Chitalia, Katya Ravid, Kelly W. Merriman, Christopher R. Flowers, Nathanael Fillmore, Ang Li</div>
      <div class="periodical"><em>American Journal of Hematology <strong>(AJH)</strong>, 2024.</em></div>
      <div class="links">
