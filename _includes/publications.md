@@ -80,7 +80,7 @@
      <div class="author">Jonathan Avery, Danielle Guffey, <strong>Shengling Ma</strong>, Ryan Basom, Stephanie J. Lee, David Garcia, Cristhiam M. Rojas Hernandez, Ang Li, Kylee L. Martens</div>
      <div class="periodical"><em>Thrombosis Research <strong>(TR)</strong>, 2023.</em></div>
      <div class="links">
-         <a href="https://drive.google.com/file/d/1T9M3JkxCFlQAErw0cGAmoG7l1pp0uYPj/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+         
      </div>
  </div>
 </div>
