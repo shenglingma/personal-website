@@ -24,7 +24,7 @@
      <div class="author"><strong>Shengling Ma</strong>*, Jennifer La*, Kaitlin N. Swinnerton, Danielle Guffey, Raka Bandyo, Giordana De Las Pozas, Katy Hanzelka, Xiangjun Xiao, Cristhiam M. Rojas-Hernandez, Christopher I. Amos, Vipul Chitalia, Katya Ravid, Kelly W. Merriman, Christopher R. Flowers, Nathanael Fillmore, Ang Li</div>
      <div class="periodical"><em>American Journal of Hematology <strong>(AJH)</strong>, 2024.</em></div>
      <div class="links">
-         <a href="https://drive.google.com/file/d/1_6T53yyXQt8SLyOyPmOXL4cyOWtb7b7G/view" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+         
          <a href="https://github.com/shenglingma/Lymph-CAT-calculator" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
      </div>
  </div>
@@ -38,7 +38,7 @@
      <div class="author"><strong>Shengling Ma</strong>, Saleh Bhar, Danielle Guffey, Rock Bum Kim, Mahrukh Jamil, Christopher I. Amos, Stephanie J. Lee, Sangeeta R. Hingorani, Sarah E. Sartain, Ang Li</div>
      <div class="periodical"><em>Transplantation and Cellular Therapy <strong>(TCT)</strong>, 2024.</em></div>
      <div class="links">
-         <a href="https://drive.google.com/file/d/1ayWXSZY7CXy-90zBoSR0l_sQ2GK8g2rM/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+         
      </div>
  </div>
 </div>
@@ -54,7 +54,7 @@
      <div class="author">Rock Bum Kim, Emily Zhou, Kaitlin N. Swinnerton, Jennifer La, <strong>Shengling Ma</strong>, Mrinal Ranjan, Nhan V. Do, Mary T. Brophy, Nathanael R. Fillmore, Ang Li</div>
      <div class="periodical"><em>Thrombosis Research <strong>(TR)</strong>, 2024.</em></div>
      <div class="links">
-         <a href="https://drive.google.com/file/d/13G8ZEPngYL3ZV5TtqNzT20-jv9B9Luvt/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+         
      </div>
  </div>
 </div>
@@ -67,7 +67,7 @@
      <div class="author">Hanqing Shang, Jun Y. Jiang, Danielle Guffey, Francisco Novoa, Raka Bandyo, <strong>Shengling Ma</strong>, Ang Li</div>
      <div class="periodical"><em>Journal of Thrombosis and Haemostasis <strong>(JTH)</strong>, 2024.</em></div>
      <div class="links">
-         <a href="https://drive.google.com/file/d/1As8SRRMeuP7k7k9HMmOoxX9IyaWPHiZ9/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+         
      </div>
  </div>
 </div>
